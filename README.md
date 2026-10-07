@@ -1,1 +1,5 @@
 # numalg
+Kovács Zsombor 
+
+-
+
